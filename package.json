@@ -41,7 +41,7 @@
     "configPath": "tests/dummy/config"
   },
   "dependencies": {
-    "aws-sdk": "^2.0.29",
+    "aws-sdk": "2.0.29",
     "chalk": "^0.5.1",
     "progress": "^1.1.8",
     "rsvp": "^3.0.14",
